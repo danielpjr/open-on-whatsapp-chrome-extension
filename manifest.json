@@ -1,0 +1,10 @@
+{
+  "name": "Open Whats",
+  "description": "Open Whatsapp numberto send messages from browser",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
